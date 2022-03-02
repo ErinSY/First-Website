@@ -1,0 +1,11 @@
+body{background-color: lightyellow;}
+hr{border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: thick;
+  width: 8%;}
+h1{color:#66BFBF;
+  font-family: "lucida handwriting";
+  font-weight: bolder;
+}
+h3{color: #66BFBF;}
